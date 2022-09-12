@@ -1,0 +1,13 @@
+C++ là một ngôn ngữ lập trình kiểu tĩnh,dữ liệu trừ tượng, 
+phân biệt kiểu chữ thường chữ hoa mà hỗ trợ lập trình hướng đối tượng, lập trình thủ tục.
+
+C++ được coi như là ngôn ngữ bậc trung (middle-level), 
+khi nó kết hợp các đặc điểm và tính năng của ngôn ngữ bậc cao và bậc thấp.
+
+C++ được phát triển bởi Bjarne Stroustrup năm 1979 tại Bell Labs ở Murray Hill, 
+New Jersey, như là một bản nâng cao của ngôn ngữ C và với tên gọi đầu tiên là "C với các Lớp", 
+nhưng sau đó được đổi tên thành C++ vào năm 1983.
+
+C++ là một Superset của C, và bất kỳ chương trình C nào cũng là một chương trình C++.
+
+------------------------------------------------------------------------------------------------------
